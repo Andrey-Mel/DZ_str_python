@@ -1,1 +1,1 @@
-# DZ_lesson_3
+# Work for string in python
